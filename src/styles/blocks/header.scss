@@ -41,18 +41,6 @@
     color: $hover-nav-link-color;
   }
 
-  // &__link:hover::after {
-  //   color: $hover-nav-link-color;
-  //   content: '';
-  //   display: block;
-  //   position: absolute;
-  //   height: 4px;
-  //   background-color: $hover-nav-link-color;
-  //   width: 100%;
-  //   bottom: 0;
-  //   right: 0;
-  //   border-radius: 8px;
-  // }
 }
 
 .is-active {
